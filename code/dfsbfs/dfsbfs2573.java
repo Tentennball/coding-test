@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class dfsbfs2606 {
+public class dfsbfs2573 {
     static int n, m;
     static int[][] earth;
     static boolean[][] visited;
